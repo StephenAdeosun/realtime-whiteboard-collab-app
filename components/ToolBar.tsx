@@ -10,8 +10,7 @@ import {
   Eraser,
   Undo2,
   Redo2,
-  Trash2,
-  Brain
+  Trash2
 } from "lucide-react";
 
 type Tool = "freehand" | "rectangle" | "circle" | "text" | "line" | "eraser";
